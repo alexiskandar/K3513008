@@ -1,6 +1,7 @@
 <?php
 //Komentar K3513008
 //KOMENTAR K3513006
+//KOMENTAR2 K3513006
 /**
  * CodeIgniter
  *
